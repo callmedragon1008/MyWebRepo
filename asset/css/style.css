@@ -8,3 +8,21 @@ a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;
 }
+#body-login{
+    width: 100%;
+    height: 100%;
+    display: table;
+    text-align: center;
+
+
+}
+#login{
+    display: table-cell;
+    vertical-align: middle;
+}
+#login-footer{
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}

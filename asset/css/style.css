@@ -4,6 +4,19 @@
     left: 0;
     right: 0;
 }
+/* header {
+    position:absolute;
+    top:0;
+    bottom:auto;
+    left:0;
+    right:0;
+    margin:auto;
+    width:100%;
+    height:auto;
+} */
+/* #sidebar{
+    position: fixed;
+} */
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;

@@ -1,22 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 #navbar_top{
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
 }
-/* header {
-    position:absolute;
-    top:0;
-    bottom:auto;
-    left:0;
-    right:0;
-    margin:auto;
-    width:100%;
-    height:auto;
-} */
-/* #sidebar{
-    position: fixed;
-} */
+
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;
@@ -38,4 +31,8 @@ a, a:hover, a:focus, a:active {
     position: relative;
     height: 200px;
     margin-top: -200px;
+}
+
+#body-login {
+    overflow: hidden; /* Hide scrollbars */
 }
